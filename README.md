@@ -1,19 +1,19 @@
-# @babel/code-frame
+# @babel/helper-create-class-features-plugin
 
-> Generate errors that contain a code frame that point to source locations.
+> Compile class public and private fields, private methods and decorators to ES6
 
-See our website [@babel/code-frame](https://babeljs.io/docs/en/babel-code-frame) for more information.
+See our website [@babel/helper-create-class-features-plugin](https://babeljs.io/docs/en/babel-helper-create-class-features-plugin) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save-dev @babel/code-frame
+npm install --save @babel/helper-create-class-features-plugin
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/code-frame --dev
+yarn add @babel/helper-create-class-features-plugin
 ```
